@@ -1,0 +1,10 @@
+C:\Users\alicia.suarez.ortiz\Desktop\curso selenium\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+C:\Users\alicia.suarez.ortiz\Desktop\curso selenium\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\alicia.suarez.ortiz\Desktop\curso selenium\Demo\bin\Debug\Demo.exe.config
+C:\Users\alicia.suarez.ortiz\Desktop\curso selenium\Demo\bin\Debug\Demo.exe
+C:\Users\alicia.suarez.ortiz\Desktop\curso selenium\Demo\bin\Debug\Demo.pdb
+C:\Users\alicia.suarez.ortiz\Desktop\curso selenium\Demo\bin\Debug\WebDriver.dll
+C:\Users\alicia.suarez.ortiz\Desktop\curso selenium\Demo\bin\Debug\WebDriver.Support.dll
+C:\Users\alicia.suarez.ortiz\Desktop\curso selenium\Demo\obj\Debug\Demo.csproj.CopyComplete
+C:\Users\alicia.suarez.ortiz\Desktop\curso selenium\Demo\obj\Debug\Demo.exe
+C:\Users\alicia.suarez.ortiz\Desktop\curso selenium\Demo\obj\Debug\Demo.pdb
